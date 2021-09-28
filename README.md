@@ -13,6 +13,7 @@ how to use :
     - Double clicking this shortcut will enable this power setting
   
   (OPTIONAL RECOMMENDED)
+  
   7. create or download an icon for the shortcut to differentiate between power modes
   8. right click the shortcut > pin to taskbar
     - The icon will now be clickable from the taskbar and should allow you to switch between your power modes automatically
