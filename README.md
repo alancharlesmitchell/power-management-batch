@@ -5,7 +5,7 @@ how to use :
   1. open command prompt as administrator
   2. type 'powercfg.exe'
     - You will see each of your power modes and a registry address next to them.
-  3. to edit this batch for your machine, copy the registry address of the power setting you want and replace the example registry address in the batch file
+  3. download the batch from this repo. To edit this batch for your machine, copy the registry address of the power setting you want and replace the example registry address in the batch file
   4. place this batch in a folder that you will not move
   5. in that folder, right click > new > shortcut
   6. for the text box, type "C:\Windows\System32\cmd.exe /c "C:\Users\YOUR_NAME\YOUR_DIRECTORY\Balanced.bat"
