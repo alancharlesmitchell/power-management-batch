@@ -1,3 +1,4 @@
 @echo off
-powercfg -s 381b4222-f694-41f0-9685-ff5bb260df2e
+powercfg -s {REPLACE WITH YOUR REGISTRY KEY FOR POWER MODE}
 powercfg /setdcvalueindex scheme_current sub_energysaver esbattthreshold 100
+::the value after this statement enables or disables battery saving mode at the percentage specified. 100 for always, 0 for never. (delete this comment if the batch does not run)
