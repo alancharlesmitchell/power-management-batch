@@ -8,7 +8,7 @@ how to use :
   
     - You will see each of your power modes and a registry address next to them.
     
-  **3.** to edit this batch for your machine, copy the registry address of the power setting you want and replace the example registry address in the batch file
+  **3.** to edit this batch for your machine, copy the registry address of the power setting you want and replace the example registry address in the batch file. Additionally, you can edit whether battery saver is enabled by changing the numerical value after the last statement in the batch file.
   
   **4.** place this batch in a folder that you will not move
   
