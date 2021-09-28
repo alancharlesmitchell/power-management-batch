@@ -11,9 +11,11 @@ how to use :
   6. for the text box, type "C:\Windows\System32\cmd.exe /c "C:\Users\YOUR_NAME\YOUR_DIRECTORY\Balanced.bat"
     - Press enter, this will create a shortcut to your batch file.
     - Double clicking this shortcut will enable this power setting
+  7. rinse and repeat for each power mode you would like to be able to switch between
   
   (OPTIONAL RECOMMENDED)
   
-  7. create or download an icon for the shortcut to differentiate between power modes
-  8. right click the shortcut > pin to taskbar
+  8. create or download an icon for the shortcut to differentiate between power modes
+  9. right click the shortcut > pin to taskbar
     - The icon will now be clickable from the taskbar and should allow you to switch between your power modes automatically
+    - The icon can be moved to the right side of the screen by creating a toolbar, hiding the text, and sliding it to the right
