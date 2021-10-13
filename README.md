@@ -2,6 +2,7 @@
 ## simple batch scripts for laptop users to maximize power savings or performance with one click
 
 how to use :
+
   **1.** open command prompt as administrator. Download the batch from this repo.
   
   **2.** type 'powercfg.exe'
